@@ -1,7 +1,7 @@
 # FE-Collect
 自己整理的一些前端资源
 
-##HTML,CSS
+## HTML,CSS
 
 ### 网站
 - [MDN 火狐开发平台](https://developer.mozilla.org/zh-CN/)
@@ -24,8 +24,8 @@
 - [大放异彩的伪元素可以做什么](http://www.w3cplus.com/css3/pseudo-element-roundup.html)
 - [一些新的 text-decoration 的属性，波浪线、下划线等等](https://css-tricks.com/more-control-over-text-decoration/)
 
-##JavaScript
+## JavaScript
 
--[JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
--[JavaScript事件代理](http://www.cnblogs.com/rubylouvre/archive/2009/08/09/1542174.html)
--[Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
+- [JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
+- [JavaScript事件代理](http://www.cnblogs.com/rubylouvre/archive/2009/08/09/1542174.html)
+- [Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
