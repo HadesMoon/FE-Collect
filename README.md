@@ -1,7 +1,7 @@
 # FE-Collect
 自己整理的一些前端资源
 
-## 知名网站
+## 网站
 - [MDN 火狐开发平台](https://developer.mozilla.org/zh-CN/)
 - [学习CSS布局](http://zh.learnlayout.com/no-layout.html)
 
