@@ -24,3 +24,6 @@
 - [大放异彩的伪元素可以做什么](http://www.w3cplus.com/css3/pseudo-element-roundup.html)
 - [一些新的 text-decoration 的属性，波浪线、下划线等等](https://css-tricks.com/more-control-over-text-decoration/)
 
+##JavaScript
+
+-[JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
