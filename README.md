@@ -1,8 +1,10 @@
 # FE-Collect
 自己整理的一些前端资源
+
 ## 知名网站
 - [MDN 火狐开发平台](https://developer.mozilla.org/zh-CN/)
 - [学习CSS布局](http://zh.learnlayout.com/no-layout.html)
+
 ## 优秀博客文章
 - [深入了解行高属性](http://www.cnblogs.com/fengzheng126/archive/2012/05/18/2507632.html)
 - [双飞翼布局介绍-始于淘宝UED](http://www.imooc.com/wenda/detail/254035)
@@ -14,6 +16,7 @@
 - [图解CSS3 flexbox](http://www.w3cplus.com/css3/a-visual-guide-to-css3-flexbox-properties.html)
 - [margin系列详解](http://www.ituring.com.cn/minibook/1024)
 - [lang=zh?zh-CN](http://www.zhihu.com/question/20797118)
+
 ## 技巧
 - [css处理圆角](http://www.poluoluo.com/jzxy/200905/62364.html)
 - [大放异彩的伪元素可以做什么](http://www.w3cplus.com/css3/pseudo-element-roundup.html)
