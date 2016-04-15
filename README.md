@@ -6,6 +6,7 @@
 ### 网站
 - [MDN 火狐开发平台](https://developer.mozilla.org/zh-CN/)
 - [学习CSS布局](http://zh.learnlayout.com/no-layout.html)
+- [小影志](http://c7sky.com/)
 
 ### 优秀博客文章
 - [深入了解行高属性](http://www.cnblogs.com/fengzheng126/archive/2012/05/18/2507632.html)
