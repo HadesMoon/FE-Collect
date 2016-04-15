@@ -1,4 +1,4 @@
-# FE-Collect
+# FE-Collection
 自己整理的一些前端资源
 
 ## HTML,CSS
