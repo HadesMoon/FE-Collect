@@ -19,6 +19,7 @@
 - [图解CSS3 flexbox](http://www.w3cplus.com/css3/a-visual-guide-to-css3-flexbox-properties.html)
 - [margin系列详解](http://www.ituring.com.cn/minibook/1024)
 - [lang=zh?zh-CN](http://www.zhihu.com/question/20797118)
+- [负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html)
 
 ### 技巧
 - [css处理圆角](http://www.poluoluo.com/jzxy/200905/62364.html)
