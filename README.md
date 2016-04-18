@@ -25,6 +25,7 @@
 - [css处理圆角](http://www.poluoluo.com/jzxy/200905/62364.html)
 - [大放异彩的伪元素可以做什么](http://www.w3cplus.com/css3/pseudo-element-roundup.html)
 - [一些新的 text-decoration 的属性，波浪线、下划线等等](https://css-tricks.com/more-control-over-text-decoration/)
+- [多列等高](http://www.cnblogs.com/2050/archive/2012/07/31/2616460.html)
 
 ## JavaScript
 
