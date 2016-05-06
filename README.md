@@ -32,3 +32,9 @@
 - [JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
 - [JavaScript事件代理](http://www.cnblogs.com/rubylouvre/archive/2009/08/09/1542174.html)
 - [Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
+
+## AngularJs
+
+-[七步从AngularJS菜鸟到专家](http://blog.jobbole.com/50533/)
+-[AngularJs路由](http://www.cnblogs.com/darrenji/p/4981008.html)
+-[资源列表](https://github.com/dolymood/AngularLearning)
