@@ -22,6 +22,7 @@
 - [负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html)
 - [前端攻略](https://segmentfault.com/a/1190000005174755)
 - [前端资源整理](http://www.jianshu.com/p/c3dae0951f74)
+- [React Native 开源项目推荐](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=502874320&idx=1&sn=c8bc64a95d3f7ab6dbbcece7405877cf#rd)
 
 ### 技巧
 - [css处理圆角](http://www.poluoluo.com/jzxy/200905/62364.html)
