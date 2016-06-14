@@ -42,6 +42,7 @@
 - [七步从AngularJS菜鸟到专家](http://blog.jobbole.com/50533/)
 - [AngularJs路由](http://www.cnblogs.com/darrenji/p/4981008.html)
 - [资源列表](https://github.com/dolymood/AngularLearning)
+- [资源推荐](https://segmentfault.com/q/1010000003501828)
 
 ## React
 
